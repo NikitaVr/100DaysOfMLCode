@@ -21,6 +21,8 @@ On new machine may need to run `sudo ufw allow 8888` to allow traffic on port 88
 
 [Fast AI Setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md)
 
+[PaperSpace](https://www.paperspace.com/console)
+
 [Kaggle API](https://github.com/Kaggle/kaggle-api)
 
 [Copy File To PaperSpace](https://paperspace.zendesk.com/hc/en-us/articles/115000192993-How-do-I-get-files-from-my-computer-into-Paperspace-)
