@@ -13,3 +13,7 @@ chmod 600 /home/paperspace/.kaggle/kaggle.json
 ```
 
 That ensures other users cannot read your api key file.
+
+Then ran `kaggle competitions download -c plant-seedlings-classification` to get the data for this sample competition: https://www.kaggle.com/c/plant-seedlings-classification/data
+
+The default storage location is `~/.kaggle/` so the files for this competition are in `~/.kaggle/competitions/plant-seedlings-classification`
