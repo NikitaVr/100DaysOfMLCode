@@ -21,3 +21,5 @@ On new machine may need to run `sudo ufw allow 8888` to allow traffic on port 88
 
 [Fast AI Setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md)
 
+[Kaggle API](https://github.com/Kaggle/kaggle-api)
+
