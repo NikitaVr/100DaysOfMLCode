@@ -31,3 +31,10 @@ unzip train.zip
 ```
 unzip test.zip
 ```
+
+The folder now looks like this:
+
+```
+(fastai) paperspace@psmuxls3c:~/.kaggle/competitions/plant-seedlings-classification$ ls
+sample_submission.csv  sample_submission.csv.zip  test  test.zip  train  train.zip
+```
