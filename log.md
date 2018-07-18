@@ -5,8 +5,8 @@
 ### Day 0: 17 July, 2018
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fill This
+**Today's Progress**: Setting up PaperSpace with Kaggle tool and getting dataset ready
 
-**Thoughts:** Fill This
+**Thoughts:** Create a more detailed log with more steps. Keep a location for useful scripts, also keep track of lessons learned.
 
-**Link to work:** [Fill This](http://www.github.com)
+**Link to work:** [More Detailed Log](https://github.com/NikitaVr/100DaysOfMLCode/blob/master/logs/Day0.md)
