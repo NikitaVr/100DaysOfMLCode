@@ -17,5 +17,5 @@
 
 **Thoughts:** Can probably tune it more and use different sizes to further improve accuracy. This library definitely makes it easy to get good results very fast.
 
-**Link to work:** [Commit](https://github.com/NikitaVr/100DaysOfMLCode/commit/a5458822952a475c1503d3345ab65f3031bf901e), maybe a good idea to also commit the trained saved model.
+**Link to work:** [Commit](https://github.com/NikitaVr/100DaysOfMLCode/commit/a5458822952a475c1503d3345ab65f3031bf901e), [Commit of Readable Python Code](https://github.com/NikitaVr/100DaysOfMLCode/commit/db206e77ae9ade436ab23f84efc69b7b02f95db9), maybe a good idea to also commit the trained saved model.
 
