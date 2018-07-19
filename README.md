@@ -27,6 +27,8 @@ On new machine may need to run `sudo ufw allow 8888` to allow traffic on port 88
 
 [Copy File To PaperSpace](https://paperspace.zendesk.com/hc/en-us/articles/115000192993-How-do-I-get-files-from-my-computer-into-Paperspace-)
 
+[Create Validation Set For Fast AI](https://github.com/Renga411/dl1.fastai/blob/master/Validation-set-creator.ipynb)
+
 # Reading
 
 Take a look at this link from Twitter. Lots of Machine Learning info from Google Engineer: https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58
