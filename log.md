@@ -25,4 +25,4 @@
 
 **Thoughts:** Look into how to make better memory usage. I think I should be able to run resnext50 on my tier of paperspace, as there should be sufficient RAM and GPU Memory, but need to look into it more. Also thinking about how image recognition could be applied in manufacturing to find deffective parts. It may need to notice quite small subtle changes, may need to have more training of the very early levels of the model for Image Net instead of the usual approach of mostly modifying the final layers.
 
-**Link to work:** [Detailed Log](https://github.com/NikitaVr/100DaysOfMLCode/tree/master/logs)
+**Link to work:** [Detailed Log](https://github.com/NikitaVr/100DaysOfMLCode/blob/master/logs/Day2.md)
