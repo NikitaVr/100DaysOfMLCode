@@ -19,10 +19,21 @@
 
 **Link to work:** [Commit](https://github.com/NikitaVr/100DaysOfMLCode/commit/a5458822952a475c1503d3345ab65f3031bf901e), [Commit of Readable Python Code](https://github.com/NikitaVr/100DaysOfMLCode/commit/db206e77ae9ade436ab23f84efc69b7b02f95db9), maybe a good idea to also commit the trained saved model.
 
-### Day 1: 18 July, 2018
+### Day 2: 19 July, 2018
 
 **Today's Progress**: Finished fast ai lesson 2 video and went on to lesson 3. Tried improving model and using resnext50 architecture but ran out of memory. Trying different batch sizes did not seem to help but need to look more into that.
 
 **Thoughts:** Look into how to make better memory usage. I think I should be able to run resnext50 on my tier of paperspace, as there should be sufficient RAM and GPU Memory, but need to look into it more. Also thinking about how image recognition could be applied in manufacturing to find deffective parts. It may need to notice quite small subtle changes, may need to have more training of the very early levels of the model for Image Net instead of the usual approach of mostly modifying the final layers.
 
 **Link to work:** [Detailed Log](https://github.com/NikitaVr/100DaysOfMLCode/blob/master/logs/Day2.md)
+
+### Day 3: 20 July, 2018
+
+**Today's Progress**: Slower day today. Mostly studied but also began setting up open ai gym. Got the basic gym working but hard to install the Atari packages on windows, and to setup gym-retro.
+
+**Thoughts:** Thinking of switching to Linux based system. Seems a lot of this stuff is made with Linux in mind first.
+
+**Link to work:** [Commit](https://github.com/NikitaVr/100DaysOfMLCode/commit/ea3909e415f3bfc8bf4ffa1fa04d4a356abc86b9)
+
+
+
