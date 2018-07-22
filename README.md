@@ -33,6 +33,12 @@ On new machine may need to run `sudo ufw allow 8888` to allow traffic on port 88
 
 Take a look at this link from Twitter. Lots of Machine Learning info from Google Engineer: https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58
 
+Lots of cool visual explanations: http://setosa.io/ev/
+
+Parent Site: http://setosa.io/#/
+
+Image Kernels shown in fast.ai http://setosa.io/ev/image-kernels/
+
 ## Fast AI
 
 [Validation Sets](http://www.fast.ai/2017/11/13/validation-sets/)
