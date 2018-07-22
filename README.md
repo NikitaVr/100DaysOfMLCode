@@ -29,6 +29,8 @@ On new machine may need to run `sudo ufw allow 8888` to allow traffic on port 88
 
 [Create Validation Set For Fast AI](https://github.com/Renga411/dl1.fastai/blob/master/Validation-set-creator.ipynb)
 
+https://chrome.google.com/webstore/detail/curlwget/jmocjfidanebdlinpbcdkcmgdifblncg/related
+
 # Reading
 
 Take a look at this link from Twitter. Lots of Machine Learning info from Google Engineer: https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58
