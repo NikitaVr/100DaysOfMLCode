@@ -35,5 +35,13 @@
 
 **Link to work:** [Commit](https://github.com/NikitaVr/100DaysOfMLCode/commit/ea3909e415f3bfc8bf4ffa1fa04d4a356abc86b9)
 
+### Day 4: 21 July, 2018
+
+**Today's Progress**: Going through Lesson 3 of course.fast.ai . Important Note: When setting precompute=true to slightly speed up the training, the data augmentation will not work ( since it uses certain precomputed values). So if you want to use data augmentation, then DO NOT set precompute=true.
+
+**Thoughts:** Try out the quick image classifications for many different applications.
+
+**Link to work:** [Lesson](http://course.fast.ai/lessons/lesson3.html)
+
 
 
