@@ -37,7 +37,7 @@
 
 ### Day 4: 21 July, 2018
 
-**Today's Progress**: Going through Lesson 3 of course.fast.ai . Important Note: When setting precompute=true to slightly speed up the training, the data augmentation will not work ( since it uses certain precomputed values). So if you want to use data augmentation, then DO NOT set precompute=true.
+**Today's Progress**: Going through Lesson 3 of course.fast.ai . Important Note: When setting precompute=True to slightly speed up the training, the data augmentation will not work ( since it uses certain precomputed values). So if you want to use data augmentation, then DO NOT set precompute=True. Also when working with images similar to ImageNet, note the learn.bn_freeze(True)
 
 **Thoughts:** Try out the quick image classifications for many different applications.
 
