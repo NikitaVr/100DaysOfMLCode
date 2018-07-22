@@ -41,7 +41,7 @@
 
 **Thoughts:** Try out the quick image classifications for many different applications.
 
-**Link to work:** [Lesson](http://course.fast.ai/lessons/lesson3.html)
+**Link to work:** [Lesson](http://course.fast.ai/lessons/lesson3.html), [Quick To Write Classification With Great Results](https://github.com/NikitaVr/100DaysOfMLCode/blob/master/fastai/StateOfTheArtImageClassification.JPG)
 
 
 
