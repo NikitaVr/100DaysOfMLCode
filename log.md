@@ -43,5 +43,16 @@
 
 **Link to work:** [Lesson](http://course.fast.ai/lessons/lesson3.html), [Quick To Write Classification With Great Results](https://github.com/NikitaVr/100DaysOfMLCode/blob/master/fastai/StateOfTheArtImageClassification.JPG)
 
+### Day 5: 22 July, 2018
+
+**Today's Progress**: Going through more of fast.ai on Lesson 3. Found this interesting proof that a neural network can compute any function: http://neuralnetworksanddeeplearning.com/chap4.html
+
+**Thoughts:** Try out the quick image classifications for many different applications.
+
+**Link to work:** [Reading](http://neuralnetworksanddeeplearning.com/chap4.html)
+
+
+
+
 
 
