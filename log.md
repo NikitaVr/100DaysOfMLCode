@@ -47,7 +47,7 @@
 
 **Today's Progress**: Going through more of fast.ai on Lesson 3. Found this interesting proof that a neural network can compute any function: http://neuralnetworksanddeeplearning.com/chap4.html
 
-**Thoughts:** Try out the quick image classifications for many different applications.
+**Thoughts:** Need to search for a database of camouflage vs no camouflage. Interested in making an image classifier that can detect camo.
 
 **Link to work:** [Reading](http://neuralnetworksanddeeplearning.com/chap4.html)
 
