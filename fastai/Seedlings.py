@@ -170,7 +170,7 @@ learn = ConvLearner.pretrained(arch, data, precompute=True)
 
 # In[38]:
 
-
+# NOT ACTUALY MAKING USE OF THIS! MAKE SURE TO USE THE OUTPUT DATA TO PICK A LEARNING RATE!
 lrf=learn.lr_find()
 
 
