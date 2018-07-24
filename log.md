@@ -51,6 +51,14 @@
 
 **Link to work:** [Reading](http://neuralnetworksanddeeplearning.com/chap4.html)
 
+### Day 6: 23 July, 2018
+
+**Today's Progress**: Finishing up lesson 3 of course.fast.ai . Important Note: Generally do not unfreeze righ away, as the last layer begins randomly initialized, but previous layers are not random and are already trained using ImageNet, which is ussually better than random. So first train the last layers only, for a bit, to get them better than random, then you can unfreeze and train the whole model with differential learning rates.
+
+**Thoughts:** Need to look for sources of multi class labeled data to try these methods out more, there is the kaggle planet dataset https://www.kaggle.com/c/planet-understanding-the-amazon-from-space but would be nice to find more.
+
+**Link to work:** [Fast AI Lesson 3](http://course.fast.ai/lessons/lesson3.html)
+
 
 
 
