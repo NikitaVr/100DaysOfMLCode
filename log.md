@@ -59,7 +59,7 @@
 
 **Link to work:** [Fast AI Lesson 3](http://course.fast.ai/lessons/lesson3.html)
 
-### Day 7: 23 July, 2018
+### Day 7: 24 July, 2018
 
 **Today's Progress**: Slower day today but at least went through more of the fast ai content. Going through lesson 4 now.
 
