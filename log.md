@@ -59,6 +59,13 @@
 
 **Link to work:** [Fast AI Lesson 3](http://course.fast.ai/lessons/lesson3.html)
 
+### Day 7: 23 July, 2018
+
+**Today's Progress**: Slower day today but at least went through more of the fast ai content. Going through lesson 4 now.
+
+**Thoughts:** Try and apply the structured data knowledge to some of the kaggle competitions.
+
+**Link to work:** [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html)
 
 
 
