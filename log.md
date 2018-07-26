@@ -67,6 +67,21 @@
 
 **Link to work:** [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html)
 
+### Day 8: 25 July, 2018
+
+**Today's Progress**: Continuing with course.fast.ai lesson 4. Tip: use `Dropout` in convolutional networks to decrease overfitting. ex. p=0.5 will mean we throw out each activation with a 50% chance.
+
+sometimes you may want to treat things like Year as Categorical rather than continuous
+
+Categorical Data has to be treated as Categorical in the model
+
+but Continuous Data can be treated as Continuous or Categorical on the model depending on what you think better models the relationship
+
+**Thoughts:** Put together a document of really useful tips
+
+**Link to work:** [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html)
+
+
 
 
 
