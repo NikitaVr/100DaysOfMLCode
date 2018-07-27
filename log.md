@@ -81,6 +81,14 @@ but Continuous Data can be treated as Continuous or Categorical on the model dep
 
 **Link to work:** [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html)
 
+### Day 9: 26 July, 2018
+
+**Today's Progress**: More Progress with course.fast.ai lesson 4. Also went over Siraj Raval's video on Loss Functions https://www.youtube.com/watch?v=IVVVjBSk9N0
+
+**Thoughts:** Much Tired, can't think
+
+**Link to work:** [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html), [Loss Functions Video](https://www.youtube.com/watch?v=IVVVjBSk9N0)
+
 
 
 
