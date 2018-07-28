@@ -90,6 +90,13 @@ but Continuous Data can be treated as Continuous or Categorical on the model dep
 **Link to work:** [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html), [Loss Functions Video](https://www.youtube.com/watch?v=IVVVjBSk9N0)
 
 
+### Day 10: 26 July, 2018
+
+**Today's Progress**: Lots of other work and slow progress on course.fast.ai , but also found this great video on AI for supply chain : https://www.youtube.com/watch?v=vwor9Fva1V4
+
+**Thoughts:** Apply these principles to things that share similarities with supply chains? Networks?
+
+**Link to work:** [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html), [AI for Supply Chain](https://www.youtube.com/watch?v=vwor9Fva1V4)
 
 
 
