@@ -98,6 +98,14 @@ but Continuous Data can be treated as Continuous or Categorical on the model dep
 
 **Link to work:** [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html), [AI for Supply Chain](https://www.youtube.com/watch?v=vwor9Fva1V4)
 
+### Day 11: 28 July, 2018
+
+**Today's Progress**: Started working on a kaggle competition : https://www.kaggle.com/c/santander-value-prediction-challenge I want to apply what I learned from course.fast.ai here. 
+
+**Thoughts:** Not going to post code until competition over. Remember to later ammend this or add a link to work elsewhere...
+
+**Link to work:** [Kaggle Competition](https://www.kaggle.com/c/santander-value-prediction-challenge)
+
 
 
 
