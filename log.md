@@ -106,6 +106,22 @@ but Continuous Data can be treated as Continuous or Categorical on the model dep
 
 **Link to work:** [Kaggle Competition](https://www.kaggle.com/c/santander-value-prediction-challenge)
 
+### Day 12: 29 July, 2018
+
+**Today's Progress**: NLP with Deep Learning through fast ai. Also was looking at the data for hte kaggle competition
+
+**Thoughts:** Not going to post code until competition over. Remember to later ammend this or add a link to work elsewhere...
+
+**Link to work:** [Kaggle Competition](https://www.kaggle.com/c/santander-value-prediction-challenge), [Fast AI Lesson 4](http://course.fast.ai/lessons/lesson4.html)
+
+### Day 13: 30 July, 2018
+
+**Today's Progress**: Trained a model of the kaggle competition with fast ai. Looking into how to get it to predict on arbetrary data, this part is a bit more challenging than expected.
+
+**Thoughts:** Not going to post code until competition over. Remember to later ammend this or add a link to work elsewhere...
+
+**Link to work:** [Kaggle Competition](https://www.kaggle.com/c/santander-value-prediction-challenge)
+
 
 
 
