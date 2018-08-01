@@ -122,6 +122,14 @@ but Continuous Data can be treated as Continuous or Categorical on the model dep
 
 **Link to work:** [Kaggle Competition](https://www.kaggle.com/c/santander-value-prediction-challenge)
 
+### Day 14: 31 July, 2018
+
+**Today's Progress**: Slower day today, still working on making predictions, reading a lot more into the fast ai functions.
+
+**Thoughts:** Not going to post code until competition over. Remember to later ammend this or add a link to work elsewhere...
+
+**Link to work:** [Kaggle Competition](https://www.kaggle.com/c/santander-value-prediction-challenge)
+
 
 
 
