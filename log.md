@@ -132,4 +132,13 @@ but Continuous Data can be treated as Continuous or Categorical on the model dep
 
 
 
+### Day 15: 1 August, 2018
+
+**Today's Progress**: A bit of progress on the kaggle competition, I think I am getting really close to the predictions that I want but running into a few bugs with my code. Also Found this great article on some of the key concepts learned in fast.ai https://blog.floydhub.com/ten-techniques-from-fast-ai/
+
+**Thoughts:** Not going to post code until competition over. Remember to later ammend this or add a link to work elsewhere...
+
+**Link to work:** [Kaggle Competition](https://www.kaggle.com/c/santander-value-prediction-challenge), [Fast AI Article](https://blog.floydhub.com/ten-techniques-from-fast-ai/)
+
+
 
